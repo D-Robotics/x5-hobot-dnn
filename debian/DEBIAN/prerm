@@ -1,6 +1,4 @@
 #!/bin/bash
 
-echo "Start to Uninstall ..."
-
 exit 0
 
