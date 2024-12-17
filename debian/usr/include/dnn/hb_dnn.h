@@ -16,8 +16,8 @@ extern "C" {
 #endif  // __cplusplus
 
 #define HB_DNN_VERSION_MAJOR 1U
-#define HB_DNN_VERSION_MINOR 23U
-#define HB_DNN_VERSION_PATCH 10U
+#define HB_DNN_VERSION_MINOR 24U
+#define HB_DNN_VERSION_PATCH 5U
 
 #define HB_DNN_TENSOR_MAX_DIMENSIONS 8
 
